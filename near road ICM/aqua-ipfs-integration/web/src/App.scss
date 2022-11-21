@@ -1,0 +1,155 @@
+$color1: black;
+$color2: rgb(214, 214, 214);
+$accent-color: rgb(225, 30, 90);
+
+.logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.mono {
+  font-family: monospace, monospace;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+header {
+  margin-top: 3vmin;
+}
+
+header,
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.content {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0.5em;
+  text-align: left;
+}
+
+.row {
+  width: 100%;
+}
+
+.btn {
+  height: 26px;
+  border: 1px solid;
+  border-color: $color2;
+
+  background-color: transparent;
+
+  margin: 5px;
+
+  font-size: 16px;
+
+  color: $color1;
+
+  &::placeholder {
+    color: $color2;
+  }
+
+  &:hover,
+  &:focus {
+    outline: 1px solid white;
+    border-color: $accent-color;
+    color: $accent-color;
+  }
+}
+
+.btn-right {
+  width: 250px;
+  display: inline;
+  float: right;
+}
+
+.btn-inline {
+  background-color: transparent;
+  margin: 5px;
+
+  display: inline;
+  border: none;
+  font-size: inherit;
+  font-family: inherit;
+  color: $accent-color;
+  outline: none;
+
+  &:hover,
+  &:focus {
+    outline: none;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}
+
+table {
+  text-align: right;
+}
+
+.label {
+  width: 30%;
+  display: inline-block;
+  text-align: right;
+  margin-right: 5px;
+}
+
+.input {
+  width: calc(70% - 15px);
+  height: 26px;
+  box-sizing: border-box;
+
+  margin: 5px;
+  padding: 0 5px;
+  border: 1px solid;
+  border-color: $color2;
+
+  color: $color1;
+
+  &::placeholder {
+    color: $color2;
+  }
+
+  &:hover,
+  &:focus {
+    outline: 1px solid white;
+    border-color: $accent-color;
+  }
+}
+
+.input-readonly {
+  display: inline;
+  width: 500px;
+  height: 26px;
+  box-sizing: border-box;
+
+  margin: 5px;
+}
+
+.article {
+  width: 700px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+}
