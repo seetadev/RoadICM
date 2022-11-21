@@ -14,6 +14,10 @@ The decentralized Cloud-Connected Car Drives IoT Monetization. Real-time access 
 
 ## How we built it
 
+We have developed a road incident management system using Javascript, HTML5, SAP's UI5 on the front end using open source video streaming system, Near blockchain, ASDI OpenAQ ((https://github.com/awslabs/open-data-registry/blob/main/datasets/openaq.yaml) and crowdsourcing marketplace enabled by Near blockchain for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control powered by SocialCalc, Near integration with Fluence for infrastructure and access of data from Near blockchains, NFT.Storage, Near protocol for security and for data retrieval and at the road incident spot for better coordination and immediate action.
+
+We are also utilizing Near Protocol to receive road incident feedback reports by citizens, store feedback details from both users and government officials on the incident reports so that they could strategize more productively and do early stage prevention of incidents.
+
 How it works:
 
 Camera Management: Add/edit/delete cameras with a front end application with Near integration, NFT.Storage (IPFS/Filecoin) for snapshots of road incident, Near based wallet for toll ticketing, data retrieval.
