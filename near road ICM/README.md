@@ -1,5 +1,6 @@
-# NEAR + Fluence + Aqua Integrations
-## Overview
+# NEAR + Fluence + Aqua Integrations for Road ICM solution
+
+## Summary
 
 We provide integration examples for both a [Fluence JS](https://github.com/fluencelabs/fluence-js) peer based on the [NEAR API JS](https://docs.near.org/docs/api/javascript-library) and distributed [Wasm services](https://github.com/fluencelabs/marine) wrapping the [NEAR RPC API](https://docs.near.org/api/rpc/introduction). A [NEAR CLI](https://docs.near.org/docs/tools/near-cli) integration is planned for the near future.
 
