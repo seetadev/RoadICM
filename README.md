@@ -25,7 +25,7 @@ Near's license NFT registration module is to enable users to register their driv
 An initial attempt to learn and develop the Near NFT solution from the Near tutorials/examples was made during the course of NEAR MetaBuild III hackathon  (please visit https://github.com/aspiringsecurity/EthTransport/tree/main/Near-Vehicle-Registration-NFT )
 
 
-How it works:
+# How it works:
 
 Camera Management: Add/edit/delete cameras with a front end application with Near integration, NFT.Storage (IPFS/Filecoin) for snapshots of road incident, Near based wallet for toll ticketing, data retrieval.
 
