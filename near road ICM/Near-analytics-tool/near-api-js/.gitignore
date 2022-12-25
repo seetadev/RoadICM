@@ -1,0 +1,25 @@
+#IDE
+.idea
+.vscode
+
+storage
+node_modules
+*.map
+
+dist/
+
+# near-api-js files & coverage
+neardev/
+coverage/
+.nyc_output
+src\.ts/protos\.d\.ts
+package\-lock\.json
+lib/
+
+# OS X
+.DS_Store
+
+# Generated test files
+test-keys/
+
+.turbo
