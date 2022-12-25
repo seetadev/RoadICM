@@ -38,3 +38,14 @@ Live streaming with Object Detection Video Analytics using open source AWS for s
 Alarm storage using IPFS with Near Blockchain. Save/delete alarm metadata and image to/from IPFS using NFT.Storage. Store the hash returned from IPFS to Near blockchain network using NFT.Storage, Near protocol based solutions for security and for data retrieval.. Provide links to alarms and blockchain transaction details.
 
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. We are using Sequence wallet for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for road incidents and alarms.
+
+# Landing Page
+
+https://sites.google.com/view/roadsafetysolution/home?authuser=8
+
+
+# Contact Details
+
+dev@seeta.in and aspiringuserapps@gmail.com
+
+
