@@ -1,20 +1,9 @@
-# Hello Near 👋 
-[![](https://img.shields.io/badge/⋈%20Examples-basics-green)](https://docs.near.org/tutorials/welcome)
-[![](https://img.shields.io/badge/Gitpod-ready-orange)](https://gitpod.io/#/https://github.com/near-examples/hello-near-js)
-[![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
-[![](https://img.shields.io/badge/Frontend-js-yellow)](https://docs.near.org/develop/integrate/frontend)
-[![](https://img.shields.io/github/workflow/status/near-examples/hello-near-js/Tests/master?color=green&label=Tests)](https://github.com/near-examples/hello-near-js/actions/workflows/tests.yml)
+Near low code framework tools: Secure data storage, transparent data movement and data authenticity using Near low code tools. Please visit https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-analytics-tool/analytics-platform
 
+In this module: 
 
-Hello NEAR! is a friendly decentralized App that stores a greeting message. It is one of the simplest smart contracts you can create in NEAR, and the perfect gateway to introduce yourself in the world of smart contracts.
-
-![](https://docs.near.org/assets/images/hello-near-banner-af016d03e81a65653c9230b95a05fe4a.png)
-
-
-# What This Example Shows
-
-1. How to store and retrieve information in the NEAR network.
-2. How to integrate a smart contract in a web frontend.
+1. We store and retrieve information in the NEAR network.
+2. We integrate a smart contract in a web frontend.
 
 <br />
 
