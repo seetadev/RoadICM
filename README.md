@@ -16,11 +16,12 @@ The decentralized Cloud-Connected Car Drives IoT Monetization. Real-time access 
 
 We have developed a road incident management system using Javascript, HTML5, SAP's UI5 on the front end using open source video streaming system, Near blockchain, ASDI OpenAQ ((https://github.com/awslabs/open-data-registry/blob/main/datasets/openaq.yaml) and crowdsourcing marketplace enabled by Near blockchain for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control powered by SocialCalc, Near integration with Fluence for infrastructure and access of data from Near blockchains, NFT.Storage, Near protocol for security and for data retrieval and at the road incident spot for better coordination and immediate action.
 
+Near low code framework tools and community tooling for analytics platform: Secure data storage, transparent data movement, data analytics and data authenticity using Near low code tools. Please visit https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-analytics-tool/analytics-platform
+
 We are also utilizing Near Protocol to receive road incident feedback reports by citizens, store feedback details from both users and government officials on the incident reports so that they could strategize more productively and do early stage prevention of incidents. Please visit the link: https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-User-Feedback-Book
 
 Near's license NFT registration module is to enable users to register their driving licenses as well as their vehicle registration details in a decentralized manner. An individual can be identified by his/her SSN and a vehicle by Vehicle Registry Number both of which for now are integers between 0 and 65535 (16 bit integers). Every SSN or individual is associated to an address of an individual Near account. We are developing our own NFT smart contract from the ground up following Near's NEP-171 standard and the key tutorial shared at the Near github website. We are also logging the identities of the driving license owners, their vehicle assets using exchange of unique identifiers powered by Near. Please visit: https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-Vehicle-Registration-NFT 
 
-Near low code framework tools: Secure data storage, transparent data movement and data authenticity using Near low code tools. Please visit https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-analytics-tool/analytics-platform
 
 How it works:
 
