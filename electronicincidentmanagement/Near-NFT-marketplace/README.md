@@ -1,4 +1,4 @@
-NFT marketplace on Near blockchain for NFC tags of Monitoring Devices
+# NFT marketplace on Near blockchain for NFC tags of Monitoring Devices
 
 #### To run this app locally, follow below steps:
 
