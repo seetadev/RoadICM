@@ -22,7 +22,7 @@ We are also utilizing Near Protocol to receive road incident feedback reports by
 
 Near's license NFT registration module is to enable users to register their driving licenses as well as their vehicle registration details in a decentralized manner. An individual can be identified by his/her SSN and a vehicle by Vehicle Registry Number both of which for now are integers between 0 and 65535 (16 bit integers). Every SSN or individual is associated to an address of an individual Near account. We are developing our own NFT smart contract from the ground up following Near's NEP-171 standard and the key tutorial shared at the Near github website. We are also logging the identities of the driving license owners, their vehicle assets using exchange of unique identifiers powered by Near. Please visit: https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-Vehicle-Registration-NFT 
 
-An initial attempt to learn and develop the Near NFT solution from the Near tutorials/examples was made during the course of NEAR MetaBuild III hackathon  (please visit https://github.com/aspiringsecurity/EthTransport/tree/main/Near-Vehicle-Registration-NFT )
+An initial attempt to learn and develop the Near NFT solution from the Near tutorials/examples was made during the course of NEAR MetaBuild III hackathon  (please visit https://github.com/aspiringsecurity/EthTransport/tree/main/Near-Vehicle-Registration-NFT ) We are also using Rust smart contract template on Near blockchain: https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-rust-smart-contracts
 
 
 # How it works:
