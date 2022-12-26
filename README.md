@@ -3,7 +3,7 @@ Near Blockchain technology to make driving safer and monitored
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes Near blockchain protocol, IPFS/Filecoin blockchain solutions using fluence p2p infrastructure for sorting information obtained from a variety of cameras. With just a cell phone, users are offered a serverless solution that can detect objects in real time and more object types for better accuracy. 
 
-Our technical solution enables driver monitoring, incident management and collision avoidance: Incident-based reporting & Collision detection (even when a vehicle is parked) and video footage associated with it. Video footage for abnormal driver behaviour (complete view of the car with 2 cameras – front and back and open source video streaming), real-time alert and live streaming using open source solutions and ASDI OpenAQ ((https://github.com/awslabs/open-data-registry/blob/main/datasets/openaq.yaml) dataset along with Near blockchain.
+Our technical solution enables driver monitoring, incident management and collision avoidance: Incident-based reporting & Collision detection (even when a vehicle is parked) and video footage associated with it. Video footage for abnormal driver behaviour (complete view of the car with 2 cameras – front and back and open source video streaming), real-time alert and live streaming using open source solutions and ASDI OpenAQ dataset along with Near blockchain.
 
 Any abnormal behaviour/activity can be displayed on the smart dashboard in the vehicle.
 
