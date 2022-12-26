@@ -42,7 +42,7 @@ Alarm storage using IPFS with Near Blockchain. Save/delete alarm metadata and im
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. We are using Sequence wallet for NFT marketplace of alarm clock wallpapers and background ringtones purchase and auction. We are also extending and adapting Turtle Music using NFT Experiments for music curators for alarm clock. We are using DAOtooling for coordination with a social focus around community collaboration for road incidents and alarms.
 
 
-# Landing Page
+# Project Information Page
 
 https://sites.google.com/view/roadsafetysolution/home?authuser=8
 
