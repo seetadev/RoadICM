@@ -46,10 +46,14 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 
 https://sites.google.com/view/roadsafetysolution/home?authuser=8
 
+Slides: https://drive.google.com/drive/u/3/folders/1J61QPexMKWZ6zf7eVmUkjxj3DqSJMX12
+
 
 # Demo Video
 
 https://www.youtube.com/watch?v=wBDXdz3m_Z4&t=10s
+
+Demo with Sound: https://drive.google.com/drive/u/3/folders/1J61QPexMKWZ6zf7eVmUkjxj3DqSJMX12
 
 
 # Contact Details
