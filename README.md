@@ -31,7 +31,7 @@ We are also developing an NFT marketplace using Near blockchain for NFC tags of 
 
 Camera Management: Add/edit/delete cameras with a front end application with Near integration, NFT.Storage (IPFS/Filecoin) for snapshots of road incident, Near based wallet for toll ticketing, data retrieval.
 
-Object Detection using open source AWS solutions, air quality measurements with ASDI OpenAQ ((https://github.com/awslabs/open-data-registry/blob/main/datasets/openaq.yaml) and Pytorch/Tensorflow deep learning library using CNN neural networks.
+Object Detection using open source AWS solutions, air quality measurements with ASDI OpenAQ and Pytorch/Tensorflow deep learning library using CNN neural networks.
 
 Video analytics configuration using IPFS, Near based solutions for security and  for data retrieval.
 
