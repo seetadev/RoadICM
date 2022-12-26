@@ -24,6 +24,8 @@ Near's license NFT registration module is to enable users to register their driv
 
 An initial attempt to learn and develop the Near NFT solution from the Near tutorials/examples was made during the course of NEAR MetaBuild III hackathon  (please visit https://github.com/aspiringsecurity/EthTransport/tree/main/Near-Vehicle-Registration-NFT ) We are also using Rust smart contract template on Near blockchain: https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-rust-smart-contracts
 
+We are also developing an NFT marketplace using Near blockchain for NFC tags of monitoring devices at roads, which includes CCTV cameras and UAV devices. This will enable better transparency in road incident management and early stage detection of the incidents. NFC tags will be end commissioned before use. Please visit https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-NFT-marketplace
+
 
 # How it works:
 
