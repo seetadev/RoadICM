@@ -1,8 +1,8 @@
-# Rust Smart Contract Template
+# Rust Smart Contract on Near blockchain for Road Incident Management
+
+We are extending the Rust smart contract template available on Near blockchain for Road ICM.
 
 ## Getting started
-
-To get started with this template:
 
 1. Click the "Use this template" button to create a new repo based on this template
 2. Update line 2 of `Cargo.toml` with your project name
