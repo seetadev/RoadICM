@@ -1,5 +1,5 @@
 # RoadICM
-Near Blockchain technology to make driving safer and monitored 
+Near Blockchain technology and Web3 eco-system to make driving safer and monitored. 
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes Near blockchain protocol, IPFS/Filecoin blockchain solutions using fluence p2p infrastructure for sorting information obtained from a variety of cameras. With just a cell phone, users are offered a serverless solution that can detect objects in real time and more object types for better accuracy. 
 
@@ -25,6 +25,8 @@ Near's license NFT registration module is to enable users to register their driv
 An initial attempt to learn and develop the Near NFT solution from the Near tutorials/examples was made during the course of NEAR MetaBuild III hackathon  (please visit https://github.com/aspiringsecurity/EthTransport/tree/main/Near-Vehicle-Registration-NFT ) We are also using Rust smart contract template on Near blockchain: https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-rust-smart-contracts
 
 We are also developing an NFT marketplace using Near blockchain for NFC tags of monitoring devices at roads, which includes CCTV cameras and UAV devices. This will enable better transparency in road incident management and early stage detection of the incidents. NFC tags will be end commissioned before use. Please visit https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-NFT-marketplace
+
+Asset Management, Automation and Reducing decentralized Transaction Costs in Road ICM: We are utilizing xrpl-py-lite for asset management, automation and reducing transaction costs with XRP Ledger in Transport ICM. This is especially useful for enabling Transport ICM at all levels - citizen, dispatcher, Ministry of Road and Transportation and Fleet Organizations.
 
 
 # How it works:
