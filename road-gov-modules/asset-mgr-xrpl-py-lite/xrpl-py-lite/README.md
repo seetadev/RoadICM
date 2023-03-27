@@ -1,1 +1,5 @@
-https://github.com/ObiajuluM/xrpl-py-lite
+XRPL-py-lite for Asset Management, Automation and Reducing decentralized Transaction Costs in Road ICM: We are utilizing xrpl-py-lite for asset management, automation and reducing transaction costs with XRP Ledger in Transport ICM. This is especially useful for enabling Transport ICM at all levels - citizen, dispatcher, Ministry of Road and Transportation and Fleet Organizations.
+
+Features of XRPL-py-lite for Asset Management, Automation: Account creation, XRPL and Asset transfer, XRPL and asset management, Creation and management of Escrows, with support for conditions, Creation and management of Checks, Creation and management of Offers, Token creation and management, NFT creation and management.
+
+References: We are learning to extend the functionality offered by https://github.com/ObiajuluM/xrpl-py-lite
