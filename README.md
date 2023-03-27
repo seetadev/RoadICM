@@ -1,5 +1,5 @@
 # RoadICM
-Near Blockchain technology, Web3 eco-system tools to make driving safer and monitored. 
+Near Blockchain technology, XRPL and Web3 eco-system tools to make driving safer and monitored. 
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes Near blockchain protocol, IPFS/Filecoin blockchain solutions using fluence p2p infrastructure for sorting information obtained from a variety of cameras. With just a cell phone, users are offered a serverless solution that can detect objects in real time and more object types for better accuracy. 
 
