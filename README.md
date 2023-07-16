@@ -51,7 +51,9 @@ Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from 
 
 # Project Information Page
 
-https://sites.google.com/view/roadsafetysolution/home?authuser=8
+Website: https://aspiring-road-safety-near-xrpl-deploy.vercel.app/
+
+https://sites.google.com/view/roadsafetysolution/home
 
 Slides: https://drive.google.com/drive/u/3/folders/1J61QPexMKWZ6zf7eVmUkjxj3DqSJMX12
 
