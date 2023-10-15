@@ -1,0 +1,42 @@
+{
+  "name": "vite-xrp-test",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.16",
+    "@tailwindcss/typography": "github:tailwindcss/typography",
+    "crypto-browserify": "^3.12.0",
+    "daisyui": "^2.50.0",
+    "dotenv": "^16.0.3",
+    "events": "^3.3.0",
+    "https-browserify": "^1.0.0",
+    "ipfs-http-client": "^60.0.0",
+    "node-fetch": "2.0",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-csv": "^2.2.2",
+    "react-dom": "^17.0.2",
+    "react-markdown": "^8.0.5",
+    "react-router-dom": "^6.9.0",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "verify-xrpl-signature": "^0.4.1",
+    "xrpl": "^2.6.0",
+    "xumm": "^1.3.2",
+    "xumm-sdk": "^1.8.0"
+  },
+  "devDependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "rollup-plugin-polyfill-node": "^0.11.0",
+    "tailwindcss": "^3.2.4",
+    "vite": "^2.8.0"
+  }
+}
