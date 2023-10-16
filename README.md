@@ -11,7 +11,13 @@ Built-in GPS technology useful in fleet management and tracking. Black box car t
 
 The decentralized Cloud-Connected Car Drives IoT Monetization. Real-time access to car availability and mobile connectivity enables better decisions making systems.
 
-Website: https://sites.google.com/view/roadsafetysolution/home & https://aspiring-road-safety-near-xrpl-deploy.vercel.app/
+Website: https://sites.google.com/view/roadsafetysolution/home 
+
+Developer Tools Vercel Website: https://web3-tools-near-ecosystem-deploy.vercel.app/
+
+Vercel Deployment: https://aspiring-road-safety-near-xrpl-deploy.vercel.app/
+
+
 
 ## How we built it
 
