@@ -27,11 +27,11 @@ An initial attempt to learn and develop the Near NFT solution from the Near tuto
 
 We are also developing an NFT marketplace using Near blockchain for NFC tags of monitoring devices at roads, which includes CCTV cameras and UAV devices. This will enable better transparency in road incident management and early stage detection of the incidents. NFC tags will be end commissioned before use. Please visit https://github.com/seetadev/RoadICM/tree/main/electronicincidentmanagement/Near-NFT-marketplace
 
-# XRPL libraries and Web3 tooling
+# Web3 tooling
 
-Asset Management, Automation and Reducing decentralized Transaction Costs in Road ICM: We are utilizing xrpl-py-lite for asset management, automation and reducing transaction costs with XRP Ledger in Transport ICM. This is especially useful for enabling Transport ICM at all levels - citizen, dispatcher, Ministry of Road and Transportation and Fleet Organizations. Please visit https://github.com/seetadev/RoadICM/tree/main/road-gov-modules/asset-mgr-xrpl-py-lite
+Asset Management, Automation and Reducing decentralized Transaction Costs in Road ICM: We are utilizing BOS and Mintbase SDK for asset management, automation and reducing transaction costs in Transport ICM. This is especially useful for enabling Transport ICM at all levels - citizen, dispatcher, Ministry of Road and Transportation and Fleet Organizations. 
 
-Features of XRPL-py-lite for Asset Management, Automation: Account creation, XRPL and Asset transfer, XRPL and asset management, Creation and management of Escrows, with support for conditions, Creation and management of Checks, Creation and management of Offers, Token creation and management, NFT creation and management.
+Features of BOS developer components and Mintbase SDK: Asset transfer, asset management, Creation and management of Escrows, with support for conditions, Creation and management of Checks, Creation and management of Offers, Token creation and management, NFT creation and management.
 
 
 # How it works:
