@@ -1,5 +1,5 @@
 # RoadICM
-Near Blockchain technology and Web3 eco-system tools to make driving safer and monitored. 
+Near and Ethereum Blockchain technology and Web3 eco-system tools to make driving safer and monitored. 
 
 Our solution offers an Artificial Intelligence-based object detection system that utilizes Near blockchain protocol, IPFS/Filecoin blockchain solutions using fluence p2p infrastructure for sorting information obtained from a variety of cameras. With just a cell phone, users are offered a serverless solution that can detect objects in real time and more object types for better accuracy. 
 
@@ -21,7 +21,7 @@ Vercel Deployment: https://aspiring-road-safety-near-xrpl-deploy.vercel.app/
 
 ## How we built it
 
-We have developed a road incident management system using Javascript, HTML5, SAP's UI5 on the front end using open source video streaming system, Near blockchain, ASDI OpenAQ and crowdsourcing marketplace enabled by Near blockchain for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control powered by SocialCalc, Near integration with Fluence for infrastructure and access of data from Near blockchains, NFT.Storage, Near protocol for security and for data retrieval and at the road incident spot for better coordination and immediate action.
+We have developed a road incident management system using Javascript, HTML5, SAP's UI5 on the front end using open source video streaming system, Near blockchain, ASDI OpenAQ and crowdsourcing marketplace enabled by Near and Ethereum blockchain for enabling sharing of government assets like toll prepaid card, car details information for interstate travel, driving license management and quarterly pollution check and control powered by SocialCalc, Near integration with Fluence for infrastructure and access of data from Near blockchains, NFT.Storage, Near protocol for security and for data retrieval and at the road incident spot for better coordination and immediate action.
 
 Near low code framework tools and community tooling for analytics platform: Secure data storage, transparent data movement, data analytics and data authenticity using Near low code tools. Please visit https://github.com/seetadev/RoadICM/tree/main/near%20road%20ICM/Near-analytics-tool/analytics-platform
 
